@@ -21,8 +21,9 @@
 }
 
 @media (max-width:768px) {
-.inf-container { text-align: center;
-}
+  .inf-container {
+    text-align: center;
+  }
 }
 
 .add-item-container {
